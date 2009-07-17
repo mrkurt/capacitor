@@ -3,4 +3,5 @@ class Bounty < CouchRestRails::Document
   property :expires_at
   property :target_id
   property :amount
+  property :pledges
 end
