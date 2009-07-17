@@ -1,1 +1,3 @@
-jchris-couchrest --source gems.github.com
+couchrest
+validatable
+json

@@ -1,4 +1,4 @@
-class Bounty < CouchRest::ExtendedDocument
+class Bounty < CouchRestRails::Document
   property :starts_at
   property :expires_at
   property :target_id

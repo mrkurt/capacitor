@@ -1,0 +1,20 @@
+production:
+    host: kurtmackey.couchdb.io
+    port: 80
+    database: resistor
+    username: kurtmackey
+    password: letmein
+
+development:
+    host: kurtmackey.couchdb.io
+    port: 80
+    database: resistor_dev
+    username: kurtmackey
+    password: letmein
+
+test:
+    host: kurtmackey.couchdb.io
+    port: 80
+    database: resistor_test
+    username: kurtmackey
+    password: letmein
