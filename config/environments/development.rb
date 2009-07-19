@@ -15,6 +15,3 @@ config.action_controller.perform_caching             = false
 
 # Don't care if the mailer can't send
 config.action_mailer.raise_delivery_errors = false
-
-#config.couch_url = "http://kurtmackey:letmein@kurtmackey.couch.io/resistor_dev"
-#CouchRest::ExtendedDocument.database = CouchRest.database("http://kurtmackey:letmein@kurtmackey.couch.io/resistor_dev")
