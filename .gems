@@ -1,2 +1,2 @@
-haml
+haml --version ">= 2.2.0"
 chriseppstein-compass --source http://gems.github.com
