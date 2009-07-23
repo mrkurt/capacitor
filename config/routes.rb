@@ -8,10 +8,16 @@ ActionController::Routing::Routes.draw do |map|
   # Sample of named route:
   #   map.purchase 'products/:id/purchase', :controller => 'catalog', :action => 'purchase'
   # This route can be invoked with purchase_url(:id => product.id)
+  map.home '/', :controller => 'projects', :action => 'index'
+  map.login 'users/login', :controller => 'users', :action => 'login'
+  map.logout 'users/logout', :controller => 'users', :action => 'logout'
 
   # Sample resource route (maps HTTP verbs to controller actions automatically):
   #   map.resources :products
 
+  map.resources :projects
+  map.resources :categories
+  
   # Sample resource route with options:
   #   map.resources :products, :member => { :short => :get, :toggle => :post }, :collection => { :sold => :get }
 
@@ -38,6 +44,6 @@ ActionController::Routing::Routes.draw do |map|
   # Install the default routes as the lowest priority.
   # Note: These default routes make all actions in every controller accessible via GET requests. You should
   # consider removing the them or commenting them out if you're using named routes and resources.
-  map.connect ':controller/:action/:id'
-  map.connect ':controller/:action/:id.:format'
+  #map.connect ':controller/:action/:id'
+  #map.connect ':controller/:action/:id.:format'
 end

@@ -1,0 +1,14 @@
+-form_for @project, :html => { :class => 'bp' } do |f|
+  %fieldset
+    %legend Request a story
+    %p
+      =f.label :name, 'Name'
+      %br
+      =f.text_field :name
+    %p
+      =f.text_area :description
+    %p.tag_selector
+      =f.label :category_names, 'Tags'
+      %br
+      =f.text_field :category_names
+    %input{ :type => 'submit', :value => 'Save' }

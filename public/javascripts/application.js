@@ -1,2 +1,8 @@
-// Place your application-specific JavaScript functions and classes here
-// This file is automatically included by javascript_include_tag :defaults
+var tags = {
+	setup : function(){
+		$('.tag_selector input[type=text]').autocomplete(
+			{ serviceUrl : '/categories.json', delimiter: ',', minChars : 2 }
+		);
+	}
+};
+$(tags.setup);

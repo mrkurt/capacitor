@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20090719194036) do
+ActiveRecord::Schema.define(:version => 20090723223517) do
 
   create_table "bounties", :force => true do |t|
     t.decimal  "amount",     :null => false
@@ -23,12 +23,16 @@ ActiveRecord::Schema.define(:version => 20090719194036) do
   add_index "bounties", ["project_id"], :name => "index_bounties_on_project_id", :unique => true
 
   create_table "categories", :force => true do |t|
-    t.string   "name",       :null => false
-    t.string   "path"
-    t.integer  "parent_id"
-    t.integer  "url_id"
+    t.string   "name",                          :null => false
+    t.string   "slug",                          :null => false
+    t.boolean  "official",   :default => false
     t.datetime "created_at"
     t.datetime "updated_at"
+  end
+
+  create_table "categories_projects", :force => true do |t|
+    t.integer "project_id"
+    t.integer "category_id"
   end
 
   create_table "pledges", :force => true do |t|
@@ -39,26 +43,24 @@ ActiveRecord::Schema.define(:version => 20090719194036) do
     t.datetime "updated_at"
   end
 
+  create_table "project_categories", :force => true do |t|
+    t.string  "display_name"
+    t.integer "rank",         :default => 100
+    t.integer "project_id"
+    t.integer "category_id"
+  end
+
   create_table "projects", :force => true do |t|
-    t.string   "name",         :null => false
-    t.text     "description",  :null => false
+    t.string   "name",                              :null => false
+    t.text     "description",                       :null => false
     t.datetime "accepted_at"
     t.datetime "expires_at"
     t.datetime "completed_at"
-    t.string   "status"
-    t.integer  "url_id"
+    t.string   "status",       :default => "draft"
     t.integer  "user_id"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
-
-  create_table "urls", :force => true do |t|
-    t.string   "path",       :null => false
-    t.datetime "created_at"
-    t.datetime "updated_at"
-  end
-
-  add_index "urls", ["path"], :name => "index_urls_on_path", :unique => true
 
   create_table "users", :force => true do |t|
     t.string   "email",      :null => false

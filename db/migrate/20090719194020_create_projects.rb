@@ -6,8 +6,7 @@ class CreateProjects < ActiveRecord::Migration
       t.datetime :accepted_at
       t.datetime :expires_at
       t.datetime :completed_at
-      t.string :status
-      t.belongs_to :url
+      t.string :status, :default => 'draft'
       t.belongs_to :user
       t.timestamps
     end

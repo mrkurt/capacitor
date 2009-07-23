@@ -1,0 +1,6 @@
+-if @current_user
+  %p You are currently logged in.  If you want to swap users, do so below!
+-form_tag :controller => 'users', :action => 'login' do
+  %p
+    %input{ :type => 'text', :name => 'email' }
+    %input{ :type => 'submit', :value => 'Login' }

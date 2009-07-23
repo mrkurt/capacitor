@@ -1,0 +1,5 @@
+%h2 Story Ideas
+%h3= link_to 'Request a story', new_project_url
+%ul
+  -@projects.each do |p|
+    %li=link_to p.name, p
