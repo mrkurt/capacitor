@@ -13,6 +13,9 @@ class Project < ActiveRecord::Base
   
   validate :must_be_funded
   
+  before_validation :sanity_check_bounty
+  before_validation :choose_project_status
+  
   def category_names
     categories.map{ |c| c.display_name }.join(', ')
   end
@@ -31,18 +34,25 @@ class Project < ActiveRecord::Base
     end
   end
   
-  def before_validation
+  protected
+
+  def sanity_check_bounty
     if self.bounty.nil?
-      self.bounty = Bounty.new(:amount => 200, :raised => 0, :expires_at => DateTime.now + 7)
-      true
+      self.bounty = Bounty.new(:amount => 100, :raised => 0, :expires_at => DateTime.now + 7)
     end
+    true
   end
   
-  protected
+  def choose_project_status
+    if bounty.pledges.total >= (bounty.amount / 10) && self.status != 'banned'
+      self.status = 'live'
+    end
+    true
+  end
   
   def must_be_funded
-    if status == 'live' && (bounty.nil? || bounty.pledges.select{|p| p.user_id = user_id && p.amount >= (bounty.amount / 10)}.length < 1)
-      errors.add_to_base("Project must be funded to 10% by creator to make live")
+    if status == 'live' && (bounty.nil? || (bounty.pledges.total < bounty.amount / 10))
+      errors.add_to_base("Project must be funded to 10% to be live")
     end
   end
 end

@@ -6,3 +6,5 @@ var tags = {
 	}
 };
 $(tags.setup);
+
+try { mpmetrics.init("6e2841a24bf3df2ad9554e55c89ccd2d");} catch(err) {}

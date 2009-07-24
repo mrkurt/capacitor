@@ -9,15 +9,16 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20090723223517) do
+ActiveRecord::Schema.define(:version => 20090724032406) do
 
   create_table "bounties", :force => true do |t|
-    t.decimal  "amount",     :null => false
-    t.decimal  "raised",     :null => false
-    t.datetime "expires_at", :null => false
+    t.decimal  "amount",         :null => false
+    t.decimal  "raised",         :null => false
+    t.datetime "expires_at",     :null => false
     t.integer  "project_id"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.datetime "last_pledge_at"
   end
 
   add_index "bounties", ["project_id"], :name => "index_bounties_on_project_id", :unique => true
@@ -33,6 +34,13 @@ ActiveRecord::Schema.define(:version => 20090723223517) do
   create_table "categories_projects", :force => true do |t|
     t.integer "project_id"
     t.integer "category_id"
+  end
+
+  create_table "credits", :force => true do |t|
+    t.integer  "user_id"
+    t.decimal  "amount"
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   create_table "pledges", :force => true do |t|
@@ -51,15 +59,16 @@ ActiveRecord::Schema.define(:version => 20090723223517) do
   end
 
   create_table "projects", :force => true do |t|
-    t.string   "name",                              :null => false
-    t.text     "description",                       :null => false
+    t.string   "name",                                :null => false
+    t.text     "description",                         :null => false
     t.datetime "accepted_at"
     t.datetime "expires_at"
     t.datetime "completed_at"
-    t.string   "status",       :default => "draft"
+    t.string   "status",         :default => "draft"
     t.integer  "user_id"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.datetime "last_pledge_at"
   end
 
   create_table "users", :force => true do |t|

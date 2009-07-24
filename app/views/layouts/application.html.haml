@@ -7,9 +7,12 @@
     /[if lt IE 8]
       = stylesheet_link_tag 'ie.css', :media => 'screen, projection'
 
+    = javascript_include_tag 'http://api.mixpanel.com/site_media/js/api/mpmetrics.js'
+      
     = javascript_include_tag 'jquery-1.3.2.min.js'
     = javascript_include_tag 'jquery.autocomplete.min.js'
     = javascript_include_tag 'application.js'
+    
   %body{:class => 'bp three-col'}
     #container
       #header
