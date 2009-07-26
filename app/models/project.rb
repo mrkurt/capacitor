@@ -19,6 +19,10 @@ class Project < ActiveRecord::Base
   def category_names
     categories.map{ |c| c.display_name }.join(', ')
   end
+  
+  def accepting_pledges?
+    status == 'draft' || status == 'live'
+  end
 
   def category_names=(values)
     categories.clear
@@ -44,8 +48,14 @@ class Project < ActiveRecord::Base
   end
   
   def choose_project_status
+    if bounty.pledges.total < (bounty.amount / 10) && self.status != 'banned'
+      self.status = 'draft'
+    end
     if bounty.pledges.total >= (bounty.amount / 10) && self.status != 'banned'
       self.status = 'live'
+    end
+    if bounty.pledges.total >= bounty.amount && self.status != 'banned'
+      self.status = 'funded'
     end
     true
   end

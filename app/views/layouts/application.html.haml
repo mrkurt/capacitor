@@ -20,10 +20,19 @@
           = link_to 'Resistor!', home_path
         #login
           -if @current_user
-            = "Hello #{@current_user.email}"
-            (
-            = link_to 'Logout', :controller => 'users', :action => 'logout'
-            )
+            %p
+              = "Hello #{@current_user.email}"
+              (
+              = link_to 'Logout', :controller => 'users', :action => 'logout'
+              )
+            -form_for Credit.new do |form|
+              %strong
+                = "You have #{@current_user.available_credit.to_i} available credit"
+              %br
+              Add:
+              %input{:type => 'submit', :value => '1000', :name => 'credit[amount]'}
+              %input{:type => 'submit', :value => '2500', :name => 'credit[amount]'}
+              %input{:type => 'submit', :value => '5000', :name => 'credit[amount]'}
           -else
             -form_tag :controller => 'users', :action => 'login' do
               %p

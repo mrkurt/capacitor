@@ -1,4 +1,4 @@
-class UsersController < ApplicationController
+class UsersController < ApplicationController  
   def login
     if request.post?
       u = User.find_by_email params[:email]

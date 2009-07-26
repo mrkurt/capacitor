@@ -1,0 +1,20 @@
+-if @project.status == 'draft'
+  %p 
+    This project will be public when total pledges reach 10%. 
+    = (@project.bounty.amount / 10) - @project.bounty.pledges.total
+    to go!
+-if @project.status == 'live'
+  %p
+    This project is public and accepting pledges.  It's currently 
+    = (@project.bounty.pledges.total / @project.bounty.amount) * 100
+    \% funded.
+    = (@project.bounty.amount - @project.bounty.pledges.total)
+    points to go.
+-if @project.status == 'funded'
+  %p This project is fully funded and ready to be written.
+
+=render :partial => 'funding_options' if @project.accepting_pledges?
+
+%ul
+  -@project.bounty.pledges.each do |pledge|
+    %li="#{pledge.amount} from #{pledge.user.name} on #{pledge.created_at}"

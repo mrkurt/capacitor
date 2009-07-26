@@ -6,5 +6,9 @@ class Bounty < ActiveRecord::Base
     end
   end
   
+  def remaining
+    self.amount - pledges.total
+  end
+  
   validates_numericality_of :amount, :greater_than => 0
 end

@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20090724032406) do
+ActiveRecord::Schema.define(:version => 20090726155958) do
 
   create_table "bounties", :force => true do |t|
     t.decimal  "amount",         :null => false
@@ -49,6 +49,7 @@ ActiveRecord::Schema.define(:version => 20090724032406) do
     t.integer  "user_id"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.integer  "credit_id"
   end
 
   create_table "project_categories", :force => true do |t|
