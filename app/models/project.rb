@@ -42,7 +42,7 @@ class Project < ActiveRecord::Base
 
   def sanity_check_bounty
     if self.bounty.nil?
-      self.bounty = Bounty.new(:amount => 100, :raised => 0, :expires_at => DateTime.now + 7)
+      self.bounty = Bounty.new(:amount => 1000, :raised => 0, :expires_at => DateTime.now + 7)
     end
     true
   end
