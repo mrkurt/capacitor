@@ -1,3 +1,4 @@
 rails --version ">= 2.3.3"
 haml --version ">= 2.2.0"
 chriseppstein-compass --source http://gems.github.com
+bluecloth

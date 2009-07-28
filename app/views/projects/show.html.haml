@@ -1,8 +1,9 @@
 %h2
-  = @project.name 
+  = h @project.name 
   (
   =link_to "Edit", edit_project_url(@project)
   )
 %div.details
   =render :partial => 'status'
-%p= @project.description
+
+%p= markdown @project.description

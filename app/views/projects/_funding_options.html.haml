@@ -1,7 +1,8 @@
--form_for Pledge.new(:bounty_id => @project.bounty.id) do |f|
-  %p
-    =f.hidden_field :bounty_id
-    Pledge: 
-    %input{:type => 'submit', :value => '100', :name => 'pledge[amount]'}
-    %input{:type => 'submit', :value => '500', :name => 'pledge[amount]'}
-    %input{:type => 'submit', :value => '1000', :name => 'pledge[amount]'}
+-if @project.accepting_pledges?
+  -form_for Pledge.new(:bounty_id => @project.bounty.id) do |f|
+    %p
+      =f.hidden_field :bounty_id
+      Pledge: 
+      %input{:type => 'submit', :value => '100', :name => 'pledge[amount]'}
+      %input{:type => 'submit', :value => '500', :name => 'pledge[amount]'}
+      %input{:type => 'submit', :value => '1000', :name => 'pledge[amount]'}

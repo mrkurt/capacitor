@@ -1,6 +1,7 @@
 require 'lib/strings'
 
 class Project < ActiveRecord::Base
+  STATUSES = ['banned', 'draft', 'live', 'funded', 'completed']
   has_one :bounty
   belongs_to :user
   belongs_to :url
