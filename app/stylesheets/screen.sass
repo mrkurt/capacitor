@@ -31,16 +31,33 @@ body.three-col
   #sidebar
     // One third of the grid columns, rounding down. With 24 cols, this is 8.
     !sidebar_columns = floor(!blueprint_grid_columns / 3)
-    +column(!sidebar_columns)
+    +column(!sidebar_columns, true)
   #content
     // Two thirds of the grid columns, rounding up.
     // With 24 cols, this is 16.
     !content_columns = ceil(2 * !blueprint_grid_columns / 3)
     // true means it's the last column in the row
-    +column(!content_columns, true)
+    +column(!content_columns)
 
 #header
-  :position relative
+  :background #333
+  :color #fff
+
+  h1
+    :margin 0px
+    :padding 10px
+
+  a
+    :color #fff
+
+#inner
+  :padding 10px
+
+#sidebar
+  :background #eee
+
+#status
+  :margin 10px
 
 #login
   :position absolute

@@ -1,5 +1,14 @@
-%h2 Story Ideas
 %h3= link_to 'Request a story', new_project_url
-%ul
-  -@projects.each do |p|
-    %li=link_to p.name, p
+%h2 Current Story Ideas
+%table
+  %thead
+    %tr
+      %th Story
+      %th Created
+      %th Raised
+  %tbody
+    -@projects[:public].each do |p|
+      %tr
+        %td= link_to h(p.name), p
+        %td= p.created_at
+        %td= "#{points p.bounty.raised} of #{points p.bounty.amount}"

@@ -18,26 +18,8 @@
       #header
         %h1 
           = link_to 'Resistor!', home_path
-        #login
-          -if @current_user
-            %p
-              = "Hello #{@current_user.email}"
-              (
-              = link_to 'Logout', :controller => 'users', :action => 'logout'
-              )
-            -form_for Credit.new do |form|
-              %strong
-                = "You have #{@current_user.available_credit.to_i} available credit"
-              %br
-              Add:
-              %input{:type => 'submit', :value => '1000', :name => 'credit[amount]'}
-              %input{:type => 'submit', :value => '2500', :name => 'credit[amount]'}
-              %input{:type => 'submit', :value => '5000', :name => 'credit[amount]'}
-          -else
-            -form_tag :controller => 'users', :action => 'login' do
-              %p
-                =hidden_field_tag :return_to, h(request.path)
-                %input{ :type => 'text', :name => 'email' }
-                %input{ :type => 'submit', :value => 'Login' }
       #content
-        =yield
+        #inner
+          =yield
+      #sidebar
+        =render :partial => 'layouts/user_status'

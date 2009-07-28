@@ -438,7 +438,7 @@ body.three-col #header, body.three-col #footer {
 body.three-col #sidebar {
   display: inline;
   float: left;
-  margin-right: 10px;
+  margin-right: 0;
   width: 310px; }
   /* line 97, ../../../../../../../Library/Ruby/Gems/1.8/gems/chriseppstein-compass-0.8.7/frameworks/blueprint/stylesheets/blueprint/modules/_grid.sass */
   * html body.three-col #sidebar {
@@ -447,7 +447,7 @@ body.three-col #sidebar {
 body.three-col #content {
   display: inline;
   float: left;
-  margin-right: 0;
+  margin-right: 10px;
   width: 630px; }
   /* line 97, ../../../../../../../Library/Ruby/Gems/1.8/gems/chriseppstein-compass-0.8.7/frameworks/blueprint/stylesheets/blueprint/modules/_grid.sass */
   * html body.three-col #content {
@@ -455,16 +455,36 @@ body.three-col #content {
 
 /* line 42, ../../app/stylesheets/screen.sass */
 #header {
-  position: relative; }
+  background: #333;
+  color: #fff; }
+  /* line 46, ../../app/stylesheets/screen.sass */
+  #header h1 {
+    margin: 0px;
+    padding: 10px; }
+  /* line 50, ../../app/stylesheets/screen.sass */
+  #header a {
+    color: #fff; }
 
-/* line 45, ../../app/stylesheets/screen.sass */
+/* line 53, ../../app/stylesheets/screen.sass */
+#inner {
+  padding: 10px; }
+
+/* line 56, ../../app/stylesheets/screen.sass */
+#sidebar {
+  background: #eee; }
+
+/* line 59, ../../app/stylesheets/screen.sass */
+#status {
+  margin: 10px; }
+
+/* line 62, ../../app/stylesheets/screen.sass */
 #login {
   position: absolute;
   top: 0px;
   right: 0px;
   padding: 10px; }
 
-/* line 51, ../../app/stylesheets/screen.sass */
+/* line 68, ../../app/stylesheets/screen.sass */
 .autocomplete-w1 {
   background: url(../images/shadow.png) no-repeat bottom right;
   position: absolute;
@@ -472,7 +492,7 @@ body.three-col #content {
   left: 0px;
   margin: 8px 0 0 6px; }
 
-/* line 58, ../../app/stylesheets/screen.sass */
+/* line 75, ../../app/stylesheets/screen.sass */
 .autocomplete {
   border: 1px solid #999;
   background: #FFF;
@@ -481,14 +501,14 @@ body.three-col #content {
   max-height: 350px;
   overflow: auto;
   margin: -6px 6px 6px -6px; }
-  /* line 67, ../../app/stylesheets/screen.sass */
+  /* line 84, ../../app/stylesheets/screen.sass */
   .autocomplete .selected {
     background: #F0F0F0; }
-  /* line 70, ../../app/stylesheets/screen.sass */
+  /* line 87, ../../app/stylesheets/screen.sass */
   .autocomplete div {
     padding: 2px 5px;
     white-space: nowrap; }
-  /* line 74, ../../app/stylesheets/screen.sass */
+  /* line 91, ../../app/stylesheets/screen.sass */
   .autocomplete strong {
     font-weight: normal;
     color: #3399FF; }
