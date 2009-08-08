@@ -2,8 +2,9 @@ class ProjectsController < ApplicationController
   before_filter :login_required, :only => [:edit, :new, :update, :create]
   def index
     @project = Project.new
-    @projects = {}
-    @projects[:public] = Project.find(:all, :conditions => ['status IN (?)', ['live']])
+    @status = params[:status]
+    @status ||= 'live'
+    @projects = Project.find(:all, :conditions => {:status => @status})
   end
   
   def show

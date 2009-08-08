@@ -1,5 +1,9 @@
 # Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
-
+kurt:
+    id: 1
+    name: kurt
+    email: mrkurt@gmail.com
+    password: asdf
 # one:
 #   column: value
 #

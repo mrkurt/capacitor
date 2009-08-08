@@ -1,5 +1,8 @@
 # Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
-
+one:
+    name: Some project
+    description: This is some project about something
+    user_id: 1
 # one:
 #   column: value
 #

@@ -485,6 +485,10 @@ body.three-col #content {
   padding: 10px; }
 
 /* line 68, ../../app/stylesheets/screen.sass */
+#user-projects {
+  margin-top: 15px; }
+
+/* line 71, ../../app/stylesheets/screen.sass */
 .autocomplete-w1 {
   background: url(../images/shadow.png) no-repeat bottom right;
   position: absolute;
@@ -492,7 +496,7 @@ body.three-col #content {
   left: 0px;
   margin: 8px 0 0 6px; }
 
-/* line 75, ../../app/stylesheets/screen.sass */
+/* line 78, ../../app/stylesheets/screen.sass */
 .autocomplete {
   border: 1px solid #999;
   background: #FFF;
@@ -501,14 +505,14 @@ body.three-col #content {
   max-height: 350px;
   overflow: auto;
   margin: -6px 6px 6px -6px; }
-  /* line 84, ../../app/stylesheets/screen.sass */
+  /* line 87, ../../app/stylesheets/screen.sass */
   .autocomplete .selected {
     background: #F0F0F0; }
-  /* line 87, ../../app/stylesheets/screen.sass */
+  /* line 90, ../../app/stylesheets/screen.sass */
   .autocomplete div {
     padding: 2px 5px;
     white-space: nowrap; }
-  /* line 91, ../../app/stylesheets/screen.sass */
+  /* line 94, ../../app/stylesheets/screen.sass */
   .autocomplete strong {
     font-weight: normal;
     color: #3399FF; }

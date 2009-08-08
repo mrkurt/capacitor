@@ -1,5 +1,8 @@
 %h3= link_to 'Request a story', new_project_url
 %h2 Current Story Ideas
+%p
+  Filter by: 
+  =Project.available_statuses.map{ |s| link_to_unless s == @status, s, projects_url(:status => s) }.join(', ')
 %table
   %thead
     %tr
@@ -7,7 +10,7 @@
       %th Created
       %th Raised
   %tbody
-    -@projects[:public].each do |p|
+    -@projects.each do |p|
       %tr
         %td= link_to h(p.name), p
         %td= p.created_at

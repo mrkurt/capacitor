@@ -1,5 +1,8 @@
 # Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
 
+full:
+    user_id: 1
+    amount: 1000
 # one:
 #   column: value
 #

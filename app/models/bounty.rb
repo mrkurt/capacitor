@@ -8,9 +8,9 @@ class Bounty < ActiveRecord::Base
   
   def remaining(options = {:format => :number, :target_percent => 100})
     if options[:format] == :percent
-      ((amount - pledges.total) / pledges.total).to_i
-      return 999
+      (100 - (raised :format => :percent)).to_i
     else
+      options[:target_percent] ||= 100
       (amount / 100 * options[:target_percent]) - pledges.total
     end
   end

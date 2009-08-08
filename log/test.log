@@ -1,0 +1,1106 @@
+Unable to load url, underlying cause no such file to load -- url 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.3/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.3/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.3/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.3/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.3/lib/active_record/fixtures.rb:851:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.3/lib/active_record/fixtures.rb:866:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.3/lib/active_record/fixtures.rb:863:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.3/lib/active_record/fixtures.rb:863:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.3/lib/active_record/fixtures.rb:846:in `fixtures'
+/Users/kurt/Documents/Projects/resistor/test/test_helper.rb:35
+./test/unit/bounty_test.rb:1:in `require'
+./test/unit/bounty_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.4/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.4/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.4/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.4/lib/rake/rake_test_loader.rb:5
+Unable to load url, underlying cause no such file to load -- url 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.3/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.3/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.3/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.3/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.3/lib/active_record/fixtures.rb:851:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.3/lib/active_record/fixtures.rb:866:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.3/lib/active_record/fixtures.rb:863:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.3/lib/active_record/fixtures.rb:863:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.3/lib/active_record/fixtures.rb:846:in `fixtures'
+/Users/kurt/Documents/Projects/resistor/test/test_helper.rb:35
+./test/functional/categories_controller_test.rb:1:in `require'
+./test/functional/categories_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.4/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.4/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.4/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.4/lib/rake/rake_test_loader.rb:5
+Unable to load url, underlying cause no such file to load -- url 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.3/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.3/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.3/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.3/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.3/lib/active_record/fixtures.rb:851:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.3/lib/active_record/fixtures.rb:866:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.3/lib/active_record/fixtures.rb:863:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.3/lib/active_record/fixtures.rb:863:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.3/lib/active_record/fixtures.rb:846:in `fixtures'
+/Users/kurt/Documents/Projects/resistor/test/test_helper.rb:35
+./test/unit/bounty_test.rb:1:in `require'
+./test/unit/bounty_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.4/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.4/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.4/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.4/lib/rake/rake_test_loader.rb:5
+Unable to load url, underlying cause no such file to load -- url 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.3/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.3/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.3/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.3/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.3/lib/active_record/fixtures.rb:851:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.3/lib/active_record/fixtures.rb:866:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.3/lib/active_record/fixtures.rb:863:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.3/lib/active_record/fixtures.rb:863:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.3/lib/active_record/fixtures.rb:846:in `fixtures'
+/Users/kurt/Documents/Projects/resistor/test/test_helper.rb:35
+./test/functional/categories_controller_test.rb:1:in `require'
+./test/functional/categories_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.4/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.4/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.4/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.4/lib/rake/rake_test_loader.rb:5
+  [4;36;1mProject Load (0.3ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:09:39', 2053932785, '2009-08-08 02:09:39', NULL, 1000.0, 0.0, '2009-08-08 02:09:39')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.2ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:09:39', "updated_at" = '2009-08-08 02:09:39' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:09:58', 2053932785, '2009-08-08 02:09:58', NULL, 1000.0, 0.0, '2009-08-08 02:09:58')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.2ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:09:58', "updated_at" = '2009-08-08 02:09:58' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:13:45', 2053932785, '2009-08-08 02:13:45', NULL, 1000.0, 0.0, '2009-08-08 02:13:45')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:13:45', "updated_at" = '2009-08-08 02:13:45' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:14:31', 2053932785, '2009-08-08 02:14:31', NULL, 1000.0, 0.0, '2009-08-08 02:14:31')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:14:31', "updated_at" = '2009-08-08 02:14:31' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:18:21', 2053932785, '2009-08-08 02:18:21', NULL, 1000.0, 0.0, '2009-08-08 02:18:21')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:18:21', "updated_at" = '2009-08-08 02:18:21' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'banned', "updated_at" = '2009-08-08 02:18:21' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:18:21', 2053932785, '2009-08-08 02:18:21', NULL, 1000.0, 0.0, '2009-08-08 02:18:21')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.2ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:18:21', "updated_at" = '2009-08-08 02:18:21' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:18:42', 2053932785, '2009-08-08 02:18:42', NULL, 1000.0, 0.0, '2009-08-08 02:18:42')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:18:42', "updated_at" = '2009-08-08 02:18:42' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'banned', "updated_at" = '2009-08-08 02:18:42' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:18:42', 2053932785, '2009-08-08 02:18:42', NULL, 1000.0, 0.0, '2009-08-08 02:18:42')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.2ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:18:42', "updated_at" = '2009-08-08 02:18:42' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:19:22', 2053932785, '2009-08-08 02:19:22', NULL, 1000.0, 0.0, '2009-08-08 02:19:22')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.2ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:19:22', "updated_at" = '2009-08-08 02:19:22' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'banned', "updated_at" = '2009-08-08 02:19:22' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:19:22', 2053932785, '2009-08-08 02:19:22', NULL, 1000.0, 0.0, '2009-08-08 02:19:22')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.2ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:19:22', "updated_at" = '2009-08-08 02:19:22' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:19:37', 2053932785, '2009-08-08 02:19:37', NULL, 1000.0, 0.0, '2009-08-08 02:19:37')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.2ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:19:37', "updated_at" = '2009-08-08 02:19:37' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'banned', "updated_at" = '2009-08-08 02:19:37' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:19:37', 2053932785, '2009-08-08 02:19:37', NULL, 1000.0, 0.0, '2009-08-08 02:19:37')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:19:37', "updated_at" = '2009-08-08 02:19:37' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.3ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:25:37', 2053932785, '2009-08-08 02:25:38', NULL, 1000.0, 0.0, '2009-08-08 02:25:38')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.2ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:25:38', "updated_at" = '2009-08-08 02:25:38' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'banned', "updated_at" = '2009-08-08 02:25:38' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mProject Load (0.2ms)[0m   [0mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Create (0.2ms)[0m   [0;1mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:25:38', 2053932785, '2009-08-08 02:25:38', NULL, 1000.0, 0.0, '2009-08-08 02:25:38')[0m
+  [4;35;1mProject Load (0.2ms)[0m   [0mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Update (0.2ms)[0m   [0;1mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:25:38', "updated_at" = '2009-08-08 02:25:38' WHERE "id" = 2053932785[0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:28:05', 2053932785, '2009-08-08 02:28:05', NULL, 1000.0, 0.0, '2009-08-08 02:28:05')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:28:05', "updated_at" = '2009-08-08 02:28:05' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'banned', "updated_at" = '2009-08-08 02:28:05' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:28:05', 2053932785, '2009-08-08 02:28:05', NULL, 1000.0, 0.0, '2009-08-08 02:28:05')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.2ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:28:05', "updated_at" = '2009-08-08 02:28:05' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges"."id" = 1618990241) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties"."id" = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mUser Load (0.1ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mProject Load (0.2ms)[0m   [0mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Create (0.2ms)[0m   [0;1mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:28:05', 2053932785, '2009-08-08 02:28:05', NULL, 1000.0, 0.0, '2009-08-08 02:28:05')[0m
+  [4;35;1mProject Load (0.2ms)[0m   [0mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Update (0.2ms)[0m   [0;1mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:28:05', "updated_at" = '2009-08-08 02:28:05' WHERE "id" = 2053932785[0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:29:05', 2053932785, '2009-08-08 02:29:05', NULL, 1000.0, 0.0, '2009-08-08 02:29:05')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.2ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:29:05', "updated_at" = '2009-08-08 02:29:05' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'banned', "updated_at" = '2009-08-08 02:29:05' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:29:05', 2053932785, '2009-08-08 02:29:05', NULL, 1000.0, 0.0, '2009-08-08 02:29:05')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.2ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:29:05', "updated_at" = '2009-08-08 02:29:05' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges"."id" = 1618990241) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties"."id" = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mUser Load (0.1ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT sum("credits".amount) AS sum_amount FROM "credits" WHERE (user_id = 1) [0m
+  [4;36;1mPledge Update (0.1ms)[0m   [0;1mUPDATE "pledges" SET "updated_at" = '2009-08-08 02:29:05', "bounty_id" = 1 WHERE "id" = 1618990241[0m
+  [4;35;1mBounty Update (0.1ms)[0m   [0mUPDATE "bounties" SET "last_pledge_at" = '2009-08-08 02:29:05', "updated_at" = '2009-08-08 02:29:05' WHERE "id" = 1[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'funded', "last_pledge_at" = '2009-08-08 02:29:05', "updated_at" = '2009-08-08 02:29:05' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Update (0.1ms)[0m   [0;1mUPDATE "projects" SET "status" = 'funded', "updated_at" = '2009-08-08 02:29:05' WHERE "id" = 2053932785[0m
+  [4;35;1mProject Load (0.2ms)[0m   [0mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Create (0.2ms)[0m   [0;1mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:29:05', 2053932785, '2009-08-08 02:29:05', NULL, 1000.0, 0.0, '2009-08-08 02:29:05')[0m
+  [4;35;1mProject Load (0.2ms)[0m   [0mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Update (0.2ms)[0m   [0;1mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:29:05', "updated_at" = '2009-08-08 02:29:05' WHERE "id" = 2053932785[0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:29:17', 2053932785, '2009-08-08 02:29:17', NULL, 1000.0, 0.0, '2009-08-08 02:29:17')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.2ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:29:17', "updated_at" = '2009-08-08 02:29:17' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'banned', "updated_at" = '2009-08-08 02:29:17' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:29:17', 2053932785, '2009-08-08 02:29:17', NULL, 1000.0, 0.0, '2009-08-08 02:29:17')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.2ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:29:17', "updated_at" = '2009-08-08 02:29:17' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges"."id" = 1618990241) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties"."id" = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mUser Load (0.1ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT sum("credits".amount) AS sum_amount FROM "credits" WHERE (user_id = 1) [0m
+  [4;36;1mPledge Update (0.1ms)[0m   [0;1mUPDATE "pledges" SET "updated_at" = '2009-08-08 02:29:17', "bounty_id" = 1 WHERE "id" = 1618990241[0m
+  [4;35;1mBounty Update (0.1ms)[0m   [0mUPDATE "bounties" SET "last_pledge_at" = '2009-08-08 02:29:17', "updated_at" = '2009-08-08 02:29:17' WHERE "id" = 1[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'funded', "last_pledge_at" = '2009-08-08 02:29:17', "updated_at" = '2009-08-08 02:29:17' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Update (0.1ms)[0m   [0;1mUPDATE "projects" SET "status" = 'funded', "updated_at" = '2009-08-08 02:29:17' WHERE "id" = 2053932785[0m
+  [4;35;1mProject Load (0.2ms)[0m   [0mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Create (0.2ms)[0m   [0;1mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:29:17', 2053932785, '2009-08-08 02:29:17', NULL, 1000.0, 0.0, '2009-08-08 02:29:17')[0m
+  [4;35;1mProject Load (0.2ms)[0m   [0mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Update (0.2ms)[0m   [0;1mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:29:17', "updated_at" = '2009-08-08 02:29:17' WHERE "id" = 2053932785[0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:29:37', 2053932785, '2009-08-08 02:29:37', NULL, 1000.0, 0.0, '2009-08-08 02:29:37')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.2ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:29:37', "updated_at" = '2009-08-08 02:29:37' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'banned', "updated_at" = '2009-08-08 02:29:37' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:29:37', 2053932785, '2009-08-08 02:29:37', NULL, 1000.0, 0.0, '2009-08-08 02:29:37')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.2ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:29:37', "updated_at" = '2009-08-08 02:29:37' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges"."id" = 1618990241) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties"."id" = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mUser Load (0.1ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT sum("credits".amount) AS sum_amount FROM "credits" WHERE (user_id = 1) [0m
+  [4;36;1mPledge Update (0.1ms)[0m   [0;1mUPDATE "pledges" SET "updated_at" = '2009-08-08 02:29:37', "bounty_id" = 1 WHERE "id" = 1618990241[0m
+  [4;35;1mBounty Update (0.1ms)[0m   [0mUPDATE "bounties" SET "last_pledge_at" = '2009-08-08 02:29:37', "updated_at" = '2009-08-08 02:29:37' WHERE "id" = 1[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'funded', "last_pledge_at" = '2009-08-08 02:29:37', "updated_at" = '2009-08-08 02:29:37' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Update (0.1ms)[0m   [0;1mUPDATE "projects" SET "status" = 'funded', "updated_at" = '2009-08-08 02:29:37' WHERE "id" = 2053932785[0m
+  [4;35;1mProject Load (0.2ms)[0m   [0mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Create (0.2ms)[0m   [0;1mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 02:29:37', 2053932785, '2009-08-08 02:29:37', NULL, 1000.0, 0.0, '2009-08-08 02:29:37')[0m
+  [4;35;1mProject Load (0.2ms)[0m   [0mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Update (0.2ms)[0m   [0;1mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 02:29:37', "updated_at" = '2009-08-08 02:29:37' WHERE "id" = 2053932785[0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.3ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 13:56:47', 2053932785, '2009-08-08 13:56:47', NULL, 1000.0, 0.0, '2009-08-08 13:56:47')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 13:56:47', "updated_at" = '2009-08-08 13:56:47' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'banned', "updated_at" = '2009-08-08 13:56:47' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 13:56:47', 2053932785, '2009-08-08 13:56:47', NULL, 1000.0, 0.0, '2009-08-08 13:56:47')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.2ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 13:56:47', "updated_at" = '2009-08-08 13:56:47' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges"."id" = 1618990241) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties"."id" = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mUser Load (0.1ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT sum("credits".amount) AS sum_amount FROM "credits" WHERE (user_id = 1) [0m
+  [4;36;1mPledge Update (0.1ms)[0m   [0;1mUPDATE "pledges" SET "updated_at" = '2009-08-08 13:56:47', "bounty_id" = 1 WHERE "id" = 1618990241[0m
+  [4;35;1mBounty Update (0.1ms)[0m   [0mUPDATE "bounties" SET "last_pledge_at" = '2009-08-08 13:56:47', "updated_at" = '2009-08-08 13:56:47' WHERE "id" = 1[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'funded', "last_pledge_at" = '2009-08-08 13:56:47', "updated_at" = '2009-08-08 13:56:47' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Update (0.1ms)[0m   [0;1mUPDATE "projects" SET "status" = 'funded', "updated_at" = '2009-08-08 13:56:47' WHERE "id" = 2053932785[0m
+  [4;35;1mProject Load (0.2ms)[0m   [0mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mProjectCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "project_categories" WHERE ("project_categories".project_id = 2053932785) [0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'a' or slug = 'a') LIMIT 1[0m
+  [4;36;1mCategory Create (0.2ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('a', 'a', '2009-08-08 13:56:47', 'f', '2009-08-08 13:56:47')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 0, 1, 'a')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'b' or slug = 'b') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('b', 'b', '2009-08-08 13:56:47', 'f', '2009-08-08 13:56:47')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 1, 2, 'b')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'c' or slug = 'c') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('c', 'c', '2009-08-08 13:56:47', 'f', '2009-08-08 13:56:47')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 2, 3, 'c')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'd' or slug = 'd') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('d', 'd', '2009-08-08 13:56:47', 'f', '2009-08-08 13:56:47')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 3, 4, 'd')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'e' or slug = 'e') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('e', 'e', '2009-08-08 13:56:47', 'f', '2009-08-08 13:56:47')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 5, 5, 'e')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 13:56:47', 2053932785, '2009-08-08 13:56:47', NULL, 1000.0, 0.0, '2009-08-08 13:56:47')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 13:56:47', "updated_at" = '2009-08-08 13:56:47' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.3ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:07:20', 2053932785, '2009-08-08 14:07:20', NULL, 1000.0, 0.0, '2009-08-08 14:07:20')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.3ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:07:20', "updated_at" = '2009-08-08 14:07:20' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'banned', "updated_at" = '2009-08-08 14:07:20' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:07:20', 2053932785, '2009-08-08 14:07:20', NULL, 1000.0, 0.0, '2009-08-08 14:07:20')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.2ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:07:20', "updated_at" = '2009-08-08 14:07:20' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges"."id" = 1618990241) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties"."id" = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mUser Load (0.1ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT sum("credits".amount) AS sum_amount FROM "credits" WHERE (user_id = 1) [0m
+  [4;36;1mPledge Update (0.1ms)[0m   [0;1mUPDATE "pledges" SET "updated_at" = '2009-08-08 14:07:20', "bounty_id" = 1 WHERE "id" = 1618990241[0m
+  [4;35;1mBounty Update (0.1ms)[0m   [0mUPDATE "bounties" SET "last_pledge_at" = '2009-08-08 14:07:20', "updated_at" = '2009-08-08 14:07:20' WHERE "id" = 1[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'funded', "last_pledge_at" = '2009-08-08 14:07:20', "updated_at" = '2009-08-08 14:07:20' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Update (0.1ms)[0m   [0;1mUPDATE "projects" SET "status" = 'funded', "updated_at" = '2009-08-08 14:07:20' WHERE "id" = 2053932785[0m
+  [4;35;1mProject Load (0.2ms)[0m   [0mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mProjectCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "project_categories" WHERE ("project_categories".project_id = 2053932785) [0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'a' or slug = 'a') LIMIT 1[0m
+  [4;36;1mCategory Create (0.2ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('a', 'a', '2009-08-08 14:07:20', 'f', '2009-08-08 14:07:20')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 0, 1, 'a')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'b' or slug = 'b') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('b', 'b', '2009-08-08 14:07:20', 'f', '2009-08-08 14:07:20')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 1, 2, 'b')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'c' or slug = 'c') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('c', 'c', '2009-08-08 14:07:20', 'f', '2009-08-08 14:07:20')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 2, 3, 'c')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'd' or slug = 'd') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('d', 'd', '2009-08-08 14:07:20', 'f', '2009-08-08 14:07:20')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 3, 4, 'd')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'e' or slug = 'e') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('e', 'e', '2009-08-08 14:07:20', 'f', '2009-08-08 14:07:20')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 5, 5, 'e')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:07:20', 2053932785, '2009-08-08 14:07:20', NULL, 1000.0, 0.0, '2009-08-08 14:07:20')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:07:20', "updated_at" = '2009-08-08 14:07:20' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.3ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:11:23', 2053932785, '2009-08-08 14:11:23', NULL, 1000.0, 0.0, '2009-08-08 14:11:23')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:11:23', "updated_at" = '2009-08-08 14:11:23' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'banned', "updated_at" = '2009-08-08 14:11:23' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:11:23', 2053932785, '2009-08-08 14:11:23', NULL, 1000.0, 0.0, '2009-08-08 14:11:23')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:11:23', "updated_at" = '2009-08-08 14:11:23' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges"."id" = 1618990241) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties"."id" = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mUser Load (0.1ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT sum("credits".amount) AS sum_amount FROM "credits" WHERE (user_id = 1) [0m
+  [4;36;1mPledge Update (0.1ms)[0m   [0;1mUPDATE "pledges" SET "updated_at" = '2009-08-08 14:11:23', "bounty_id" = 1 WHERE "id" = 1618990241[0m
+  [4;35;1mBounty Update (0.1ms)[0m   [0mUPDATE "bounties" SET "last_pledge_at" = '2009-08-08 14:11:23', "updated_at" = '2009-08-08 14:11:23' WHERE "id" = 1[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'funded', "last_pledge_at" = '2009-08-08 14:11:23', "updated_at" = '2009-08-08 14:11:23' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Update (0.1ms)[0m   [0;1mUPDATE "projects" SET "status" = 'funded', "updated_at" = '2009-08-08 14:11:23' WHERE "id" = 2053932785[0m
+  [4;35;1mProject Load (0.2ms)[0m   [0mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mProjectCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "project_categories" WHERE ("project_categories".project_id = 2053932785) [0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'a' or slug = 'a') LIMIT 1[0m
+  [4;36;1mCategory Create (0.2ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('a', 'a', '2009-08-08 14:11:23', 'f', '2009-08-08 14:11:23')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 0, 1, 'a')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'b' or slug = 'b') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('b', 'b', '2009-08-08 14:11:23', 'f', '2009-08-08 14:11:23')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 1, 2, 'b')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'c' or slug = 'c') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('c', 'c', '2009-08-08 14:11:23', 'f', '2009-08-08 14:11:23')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 2, 3, 'c')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'd' or slug = 'd') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('d', 'd', '2009-08-08 14:11:23', 'f', '2009-08-08 14:11:23')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 3, 4, 'd')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'e' or slug = 'e') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('e', 'e', '2009-08-08 14:11:23', 'f', '2009-08-08 14:11:23')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 5, 5, 'e')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:11:23', 2053932785, '2009-08-08 14:11:23', NULL, 1000.0, 0.0, '2009-08-08 14:11:23')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:11:23', "updated_at" = '2009-08-08 14:11:23' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.3ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:11:55', 2053932785, '2009-08-08 14:11:55', NULL, 1000.0, 0.0, '2009-08-08 14:11:55')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:11:55', "updated_at" = '2009-08-08 14:11:55' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'banned', "updated_at" = '2009-08-08 14:11:55' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:11:55', 2053932785, '2009-08-08 14:11:55', NULL, 1000.0, 0.0, '2009-08-08 14:11:55')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.2ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:11:55', "updated_at" = '2009-08-08 14:11:55' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges"."id" = 1618990241) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties"."id" = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mUser Load (0.1ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT sum("credits".amount) AS sum_amount FROM "credits" WHERE (user_id = 1) [0m
+  [4;36;1mPledge Update (0.1ms)[0m   [0;1mUPDATE "pledges" SET "updated_at" = '2009-08-08 14:11:55', "bounty_id" = 1 WHERE "id" = 1618990241[0m
+  [4;35;1mBounty Update (0.1ms)[0m   [0mUPDATE "bounties" SET "last_pledge_at" = '2009-08-08 14:11:55', "updated_at" = '2009-08-08 14:11:55' WHERE "id" = 1[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'funded', "last_pledge_at" = '2009-08-08 14:11:55', "updated_at" = '2009-08-08 14:11:55' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Update (0.1ms)[0m   [0;1mUPDATE "projects" SET "status" = 'funded', "updated_at" = '2009-08-08 14:11:55' WHERE "id" = 2053932785[0m
+  [4;35;1mProject Load (0.2ms)[0m   [0mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mProjectCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "project_categories" WHERE ("project_categories".project_id = 2053932785) [0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'a' or slug = 'a') LIMIT 1[0m
+  [4;36;1mCategory Create (0.2ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('a', 'a', '2009-08-08 14:11:55', 'f', '2009-08-08 14:11:55')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 0, 1, 'a')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'b' or slug = 'b') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('b', 'b', '2009-08-08 14:11:55', 'f', '2009-08-08 14:11:55')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 1, 2, 'b')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'c' or slug = 'c') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('c', 'c', '2009-08-08 14:11:55', 'f', '2009-08-08 14:11:55')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 2, 3, 'c')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'd' or slug = 'd') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('d', 'd', '2009-08-08 14:11:55', 'f', '2009-08-08 14:11:55')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 3, 4, 'd')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'e' or slug = 'e') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('e', 'e', '2009-08-08 14:11:55', 'f', '2009-08-08 14:11:55')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 5, 5, 'e')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:11:55', 2053932785, '2009-08-08 14:11:55', NULL, 1000.0, 0.0, '2009-08-08 14:11:55')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:11:55', "updated_at" = '2009-08-08 14:11:55' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:29:23', 2053932785, '2009-08-08 14:29:23', NULL, 1000.0, 0.0, '2009-08-08 14:29:23')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:29:23', "updated_at" = '2009-08-08 14:29:23' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'banned', "updated_at" = '2009-08-08 14:29:23' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:29:23', 2053932785, '2009-08-08 14:29:23', NULL, 1000.0, 0.0, '2009-08-08 14:29:23')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:29:23', "updated_at" = '2009-08-08 14:29:23' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges"."id" = 1618990241) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties"."id" = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mUser Load (0.1ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT sum("credits".amount) AS sum_amount FROM "credits" WHERE (user_id = 1) [0m
+  [4;36;1mPledge Update (0.1ms)[0m   [0;1mUPDATE "pledges" SET "updated_at" = '2009-08-08 14:29:23', "bounty_id" = 1 WHERE "id" = 1618990241[0m
+  [4;35;1mBounty Update (0.1ms)[0m   [0mUPDATE "bounties" SET "last_pledge_at" = '2009-08-08 14:29:23', "updated_at" = '2009-08-08 14:29:23' WHERE "id" = 1[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'funded', "last_pledge_at" = '2009-08-08 14:29:23', "updated_at" = '2009-08-08 14:29:23' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Update (0.1ms)[0m   [0;1mUPDATE "projects" SET "status" = 'funded', "updated_at" = '2009-08-08 14:29:23' WHERE "id" = 2053932785[0m
+  [4;35;1mProject Load (0.2ms)[0m   [0mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mProjectCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "project_categories" WHERE ("project_categories".project_id = 2053932785) [0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'a' or slug = 'a') LIMIT 1[0m
+  [4;36;1mCategory Create (0.2ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('a', 'a', '2009-08-08 14:29:23', 'f', '2009-08-08 14:29:23')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 0, 1, 'a')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'b' or slug = 'b') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('b', 'b', '2009-08-08 14:29:23', 'f', '2009-08-08 14:29:23')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 1, 2, 'b')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'c' or slug = 'c') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('c', 'c', '2009-08-08 14:29:23', 'f', '2009-08-08 14:29:23')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 2, 3, 'c')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'd' or slug = 'd') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('d', 'd', '2009-08-08 14:29:23', 'f', '2009-08-08 14:29:23')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 3, 4, 'd')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'e' or slug = 'e') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('e', 'e', '2009-08-08 14:29:23', 'f', '2009-08-08 14:29:23')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 5, 5, 'e')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:29:23', 2053932785, '2009-08-08 14:29:23', NULL, 1000.0, 0.0, '2009-08-08 14:29:23')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:29:23', "updated_at" = '2009-08-08 14:29:23' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:30:47', 2053932785, '2009-08-08 14:30:47', NULL, 1000.0, 0.0, '2009-08-08 14:30:47')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:30:47', "updated_at" = '2009-08-08 14:30:47' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'banned', "updated_at" = '2009-08-08 14:30:47' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:30:47', 2053932785, '2009-08-08 14:30:47', NULL, 1000.0, 0.0, '2009-08-08 14:30:47')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.2ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:30:47', "updated_at" = '2009-08-08 14:30:47' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges"."id" = 1618990241) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties"."id" = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mUser Load (0.1ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT sum("credits".amount) AS sum_amount FROM "credits" WHERE (user_id = 1) [0m
+  [4;36;1mPledge Update (0.1ms)[0m   [0;1mUPDATE "pledges" SET "updated_at" = '2009-08-08 14:30:47', "bounty_id" = 1 WHERE "id" = 1618990241[0m
+  [4;35;1mBounty Update (0.1ms)[0m   [0mUPDATE "bounties" SET "last_pledge_at" = '2009-08-08 14:30:47', "updated_at" = '2009-08-08 14:30:47' WHERE "id" = 1[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'funded', "last_pledge_at" = '2009-08-08 14:30:47', "updated_at" = '2009-08-08 14:30:47' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Update (0.1ms)[0m   [0;1mUPDATE "projects" SET "status" = 'funded', "updated_at" = '2009-08-08 14:30:47' WHERE "id" = 2053932785[0m
+  [4;35;1mProject Load (0.2ms)[0m   [0mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mProjectCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "project_categories" WHERE ("project_categories".project_id = 2053932785) [0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'a' or slug = 'a') LIMIT 1[0m
+  [4;36;1mCategory Create (0.2ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('a', 'a', '2009-08-08 14:30:47', 'f', '2009-08-08 14:30:47')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 0, 1, 'a')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'b' or slug = 'b') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('b', 'b', '2009-08-08 14:30:47', 'f', '2009-08-08 14:30:47')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 1, 2, 'b')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'c' or slug = 'c') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('c', 'c', '2009-08-08 14:30:47', 'f', '2009-08-08 14:30:47')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 2, 3, 'c')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'd' or slug = 'd') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('d', 'd', '2009-08-08 14:30:47', 'f', '2009-08-08 14:30:47')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 3, 4, 'd')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'e' or slug = 'e') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('e', 'e', '2009-08-08 14:30:47', 'f', '2009-08-08 14:30:47')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 5, 5, 'e')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:30:47', 2053932785, '2009-08-08 14:30:47', NULL, 1000.0, 0.0, '2009-08-08 14:30:47')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:30:47', "updated_at" = '2009-08-08 14:30:47' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:31:13', 2053932785, '2009-08-08 14:31:13', NULL, 1000.0, 0.0, '2009-08-08 14:31:13')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:31:13', "updated_at" = '2009-08-08 14:31:13' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'banned', "updated_at" = '2009-08-08 14:31:13' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:31:13', 2053932785, '2009-08-08 14:31:13', NULL, 1000.0, 0.0, '2009-08-08 14:31:13')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:31:13', "updated_at" = '2009-08-08 14:31:13' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges"."id" = 1618990241) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties"."id" = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mUser Load (0.1ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT sum("credits".amount) AS sum_amount FROM "credits" WHERE (user_id = 1) [0m
+  [4;36;1mPledge Update (0.1ms)[0m   [0;1mUPDATE "pledges" SET "updated_at" = '2009-08-08 14:31:13', "bounty_id" = 1 WHERE "id" = 1618990241[0m
+  [4;35;1mBounty Update (0.1ms)[0m   [0mUPDATE "bounties" SET "last_pledge_at" = '2009-08-08 14:31:13', "updated_at" = '2009-08-08 14:31:13' WHERE "id" = 1[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'funded', "last_pledge_at" = '2009-08-08 14:31:13', "updated_at" = '2009-08-08 14:31:13' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Update (0.1ms)[0m   [0;1mUPDATE "projects" SET "status" = 'funded', "updated_at" = '2009-08-08 14:31:13' WHERE "id" = 2053932785[0m
+  [4;35;1mProject Load (0.2ms)[0m   [0mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mProjectCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "project_categories" WHERE ("project_categories".project_id = 2053932785) [0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'a' or slug = 'a') LIMIT 1[0m
+  [4;36;1mCategory Create (0.2ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('a', 'a', '2009-08-08 14:31:13', 'f', '2009-08-08 14:31:13')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 0, 1, 'a')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'b' or slug = 'b') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('b', 'b', '2009-08-08 14:31:13', 'f', '2009-08-08 14:31:13')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 1, 2, 'b')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'c' or slug = 'c') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('c', 'c', '2009-08-08 14:31:13', 'f', '2009-08-08 14:31:13')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 2, 3, 'c')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'd' or slug = 'd') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('d', 'd', '2009-08-08 14:31:13', 'f', '2009-08-08 14:31:13')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 3, 4, 'd')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'e' or slug = 'e') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('e', 'e', '2009-08-08 14:31:13', 'f', '2009-08-08 14:31:13')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 5, 5, 'e')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:31:13', 2053932785, '2009-08-08 14:31:13', NULL, 1000.0, 0.0, '2009-08-08 14:31:13')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:31:13', "updated_at" = '2009-08-08 14:31:13' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:31:35', 2053932785, '2009-08-08 14:31:35', NULL, 1000.0, 0.0, '2009-08-08 14:31:35')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:31:35', "updated_at" = '2009-08-08 14:31:35' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'banned', "updated_at" = '2009-08-08 14:31:35' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:31:35', 2053932785, '2009-08-08 14:31:35', NULL, 1000.0, 0.0, '2009-08-08 14:31:35')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:31:35', "updated_at" = '2009-08-08 14:31:35' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges"."id" = 1618990241) [0m
+  [4;36;1mBounty Load (0.2ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties"."id" = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mUser Load (0.1ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT sum("credits".amount) AS sum_amount FROM "credits" WHERE (user_id = 1) [0m
+  [4;36;1mPledge Update (0.1ms)[0m   [0;1mUPDATE "pledges" SET "updated_at" = '2009-08-08 14:31:35', "bounty_id" = 1 WHERE "id" = 1618990241[0m
+  [4;35;1mBounty Update (0.1ms)[0m   [0mUPDATE "bounties" SET "last_pledge_at" = '2009-08-08 14:31:35', "updated_at" = '2009-08-08 14:31:35' WHERE "id" = 1[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'funded', "last_pledge_at" = '2009-08-08 14:31:35', "updated_at" = '2009-08-08 14:31:35' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Update (0.1ms)[0m   [0;1mUPDATE "projects" SET "status" = 'funded', "updated_at" = '2009-08-08 14:31:35' WHERE "id" = 2053932785[0m
+  [4;35;1mProject Load (0.2ms)[0m   [0mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mProjectCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "project_categories" WHERE ("project_categories".project_id = 2053932785) [0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'a' or slug = 'a') LIMIT 1[0m
+  [4;36;1mCategory Create (0.2ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('a', 'a', '2009-08-08 14:31:35', 'f', '2009-08-08 14:31:35')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 0, 1, 'a')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'b' or slug = 'b') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('b', 'b', '2009-08-08 14:31:35', 'f', '2009-08-08 14:31:35')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 1, 2, 'b')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'c' or slug = 'c') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('c', 'c', '2009-08-08 14:31:35', 'f', '2009-08-08 14:31:35')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 2, 3, 'c')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'd' or slug = 'd') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('d', 'd', '2009-08-08 14:31:35', 'f', '2009-08-08 14:31:35')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 3, 4, 'd')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'e' or slug = 'e') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('e', 'e', '2009-08-08 14:31:35', 'f', '2009-08-08 14:31:35')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 5, 5, 'e')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:31:35', 2053932785, '2009-08-08 14:31:35', NULL, 1000.0, 0.0, '2009-08-08 14:31:35')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.2ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:31:35', "updated_at" = '2009-08-08 14:31:35' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.3ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:32:14', 2053932785, '2009-08-08 14:32:14', NULL, 1000.0, 0.0, '2009-08-08 14:32:14')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.4ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:32:14', "updated_at" = '2009-08-08 14:32:14' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'banned', "updated_at" = '2009-08-08 14:32:14' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:32:14', 2053932785, '2009-08-08 14:32:14', NULL, 1000.0, 0.0, '2009-08-08 14:32:14')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:32:14', "updated_at" = '2009-08-08 14:32:14' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges"."id" = 1618990241) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties"."id" = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mUser Load (0.1ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT sum("credits".amount) AS sum_amount FROM "credits" WHERE (user_id = 1) [0m
+  [4;36;1mPledge Update (0.1ms)[0m   [0;1mUPDATE "pledges" SET "updated_at" = '2009-08-08 14:32:14', "bounty_id" = 1 WHERE "id" = 1618990241[0m
+  [4;35;1mBounty Update (0.1ms)[0m   [0mUPDATE "bounties" SET "last_pledge_at" = '2009-08-08 14:32:14', "updated_at" = '2009-08-08 14:32:14' WHERE "id" = 1[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'funded', "last_pledge_at" = '2009-08-08 14:32:14', "updated_at" = '2009-08-08 14:32:14' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Update (0.1ms)[0m   [0;1mUPDATE "projects" SET "status" = 'funded', "updated_at" = '2009-08-08 14:32:14' WHERE "id" = 2053932785[0m
+  [4;35;1mProject Load (0.2ms)[0m   [0mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mProjectCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "project_categories" WHERE ("project_categories".project_id = 2053932785) [0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'a' or slug = 'a') LIMIT 1[0m
+  [4;36;1mCategory Create (0.2ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('a', 'a', '2009-08-08 14:32:14', 'f', '2009-08-08 14:32:14')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 0, 1, 'a')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'b' or slug = 'b') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('b', 'b', '2009-08-08 14:32:14', 'f', '2009-08-08 14:32:14')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 1, 2, 'b')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'c' or slug = 'c') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('c', 'c', '2009-08-08 14:32:14', 'f', '2009-08-08 14:32:14')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 2, 3, 'c')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'd' or slug = 'd') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('d', 'd', '2009-08-08 14:32:14', 'f', '2009-08-08 14:32:14')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 3, 4, 'd')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'e' or slug = 'e') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('e', 'e', '2009-08-08 14:32:14', 'f', '2009-08-08 14:32:14')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 5, 5, 'e')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:32:14', 2053932785, '2009-08-08 14:32:14', NULL, 1000.0, 0.0, '2009-08-08 14:32:14')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:32:14', "updated_at" = '2009-08-08 14:32:14' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.4ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:32:51', 2053932785, '2009-08-08 14:32:51', NULL, 1000.0, 0.0, '2009-08-08 14:32:51')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:32:51', "updated_at" = '2009-08-08 14:32:51' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'banned', "updated_at" = '2009-08-08 14:32:51' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:32:51', 2053932785, '2009-08-08 14:32:51', NULL, 1000.0, 0.0, '2009-08-08 14:32:51')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:32:51', "updated_at" = '2009-08-08 14:32:51' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges"."id" = 1618990241) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties"."id" = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mUser Load (0.1ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT sum("credits".amount) AS sum_amount FROM "credits" WHERE (user_id = 1) [0m
+  [4;36;1mPledge Update (0.1ms)[0m   [0;1mUPDATE "pledges" SET "updated_at" = '2009-08-08 14:32:51', "bounty_id" = 1 WHERE "id" = 1618990241[0m
+  [4;35;1mBounty Update (0.1ms)[0m   [0mUPDATE "bounties" SET "last_pledge_at" = '2009-08-08 14:32:51', "updated_at" = '2009-08-08 14:32:51' WHERE "id" = 1[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'funded', "last_pledge_at" = '2009-08-08 14:32:51', "updated_at" = '2009-08-08 14:32:51' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Update (0.1ms)[0m   [0;1mUPDATE "projects" SET "status" = 'funded', "updated_at" = '2009-08-08 14:32:51' WHERE "id" = 2053932785[0m
+  [4;35;1mProject Load (0.2ms)[0m   [0mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mProjectCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "project_categories" WHERE ("project_categories".project_id = 2053932785) [0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'a' or slug = 'a') LIMIT 1[0m
+  [4;36;1mCategory Create (0.2ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('a', 'a', '2009-08-08 14:32:51', 'f', '2009-08-08 14:32:51')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 0, 1, 'a')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'b' or slug = 'b') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('b', 'b', '2009-08-08 14:32:51', 'f', '2009-08-08 14:32:51')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 1, 2, 'b')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'c' or slug = 'c') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('c', 'c', '2009-08-08 14:32:51', 'f', '2009-08-08 14:32:51')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 2, 3, 'c')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'd' or slug = 'd') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('d', 'd', '2009-08-08 14:32:51', 'f', '2009-08-08 14:32:51')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 3, 4, 'd')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'e' or slug = 'e') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('e', 'e', '2009-08-08 14:32:51', 'f', '2009-08-08 14:32:51')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 5, 5, 'e')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:32:51', 2053932785, '2009-08-08 14:32:51', NULL, 1000.0, 0.0, '2009-08-08 14:32:51')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:32:51', "updated_at" = '2009-08-08 14:32:51' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.3ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:34:15', 2053932785, '2009-08-08 14:34:15', NULL, 1000.0, 0.0, '2009-08-08 14:34:15')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:34:15', "updated_at" = '2009-08-08 14:34:15' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'banned', "updated_at" = '2009-08-08 14:34:15' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:34:15', 2053932785, '2009-08-08 14:34:15', NULL, 1000.0, 0.0, '2009-08-08 14:34:15')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.2ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:34:15', "updated_at" = '2009-08-08 14:34:15' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges"."id" = 1618990241) [0m
+  [4;36;1mBounty Load (0.2ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties"."id" = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mUser Load (0.1ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT sum("credits".amount) AS sum_amount FROM "credits" WHERE (user_id = 1) [0m
+  [4;36;1mPledge Update (0.1ms)[0m   [0;1mUPDATE "pledges" SET "updated_at" = '2009-08-08 14:34:15', "bounty_id" = 1 WHERE "id" = 1618990241[0m
+  [4;35;1mBounty Update (0.1ms)[0m   [0mUPDATE "bounties" SET "last_pledge_at" = '2009-08-08 14:34:15', "updated_at" = '2009-08-08 14:34:15' WHERE "id" = 1[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'funded', "last_pledge_at" = '2009-08-08 14:34:15', "updated_at" = '2009-08-08 14:34:15' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Update (0.1ms)[0m   [0;1mUPDATE "projects" SET "status" = 'funded', "updated_at" = '2009-08-08 14:34:15' WHERE "id" = 2053932785[0m
+  [4;35;1mProject Load (0.2ms)[0m   [0mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mProjectCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "project_categories" WHERE ("project_categories".project_id = 2053932785) [0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'a' or slug = 'a') LIMIT 1[0m
+  [4;36;1mCategory Create (0.2ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('a', 'a', '2009-08-08 14:34:15', 'f', '2009-08-08 14:34:15')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 0, 1, 'a')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'b' or slug = 'b') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('b', 'b', '2009-08-08 14:34:15', 'f', '2009-08-08 14:34:15')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 1, 2, 'b')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'c' or slug = 'c') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('c', 'c', '2009-08-08 14:34:15', 'f', '2009-08-08 14:34:15')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 2, 3, 'c')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'd' or slug = 'd') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('d', 'd', '2009-08-08 14:34:15', 'f', '2009-08-08 14:34:15')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 3, 4, 'd')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'e' or slug = 'e') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('e', 'e', '2009-08-08 14:34:15', 'f', '2009-08-08 14:34:15')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 5, 5, 'e')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:34:15', 2053932785, '2009-08-08 14:34:15', NULL, 1000.0, 0.0, '2009-08-08 14:34:15')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:34:15', "updated_at" = '2009-08-08 14:34:15' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.3ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:34:34', 2053932785, '2009-08-08 14:34:34', NULL, 1000.0, 0.0, '2009-08-08 14:34:34')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:34:34', "updated_at" = '2009-08-08 14:34:34' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'banned', "updated_at" = '2009-08-08 14:34:34' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:34:34', 2053932785, '2009-08-08 14:34:34', NULL, 1000.0, 0.0, '2009-08-08 14:34:34')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:34:34', "updated_at" = '2009-08-08 14:34:34' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mPledge Load (0.2ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges"."id" = 1618990241) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties"."id" = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mUser Load (0.1ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT sum("credits".amount) AS sum_amount FROM "credits" WHERE (user_id = 1) [0m
+  [4;36;1mPledge Update (0.1ms)[0m   [0;1mUPDATE "pledges" SET "updated_at" = '2009-08-08 14:34:34', "bounty_id" = 1 WHERE "id" = 1618990241[0m
+  [4;35;1mBounty Update (0.1ms)[0m   [0mUPDATE "bounties" SET "last_pledge_at" = '2009-08-08 14:34:34', "updated_at" = '2009-08-08 14:34:34' WHERE "id" = 1[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'funded', "last_pledge_at" = '2009-08-08 14:34:34', "updated_at" = '2009-08-08 14:34:34' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Update (0.1ms)[0m   [0;1mUPDATE "projects" SET "status" = 'funded', "updated_at" = '2009-08-08 14:34:34' WHERE "id" = 2053932785[0m
+  [4;35;1mProject Load (0.2ms)[0m   [0mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mProjectCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "project_categories" WHERE ("project_categories".project_id = 2053932785) [0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'a' or slug = 'a') LIMIT 1[0m
+  [4;36;1mCategory Create (0.2ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('a', 'a', '2009-08-08 14:34:34', 'f', '2009-08-08 14:34:34')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 0, 1, 'a')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'b' or slug = 'b') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('b', 'b', '2009-08-08 14:34:34', 'f', '2009-08-08 14:34:34')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 1, 2, 'b')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'c' or slug = 'c') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('c', 'c', '2009-08-08 14:34:34', 'f', '2009-08-08 14:34:34')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 2, 3, 'c')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'd' or slug = 'd') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('d', 'd', '2009-08-08 14:34:34', 'f', '2009-08-08 14:34:34')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 3, 4, 'd')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'e' or slug = 'e') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('e', 'e', '2009-08-08 14:34:34', 'f', '2009-08-08 14:34:34')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 5, 5, 'e')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:34:34', 2053932785, '2009-08-08 14:34:34', NULL, 1000.0, 0.0, '2009-08-08 14:34:34')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:34:34', "updated_at" = '2009-08-08 14:34:34' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.3ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:34:52', 2053932785, '2009-08-08 14:34:52', NULL, 1000.0, 0.0, '2009-08-08 14:34:52')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:34:52', "updated_at" = '2009-08-08 14:34:52' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'banned', "updated_at" = '2009-08-08 14:34:52' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:34:52', 2053932785, '2009-08-08 14:34:52', NULL, 1000.0, 0.0, '2009-08-08 14:34:52')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:34:52', "updated_at" = '2009-08-08 14:34:52' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges"."id" = 1618990241) [0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties"."id" = 1) [0m
+  [4;35;1mPledge Load (0.1ms)[0m   [0mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;36;1mUser Load (0.1ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT sum("credits".amount) AS sum_amount FROM "credits" WHERE (user_id = 1) [0m
+  [4;36;1mPledge Update (0.1ms)[0m   [0;1mUPDATE "pledges" SET "updated_at" = '2009-08-08 14:34:52', "bounty_id" = 1 WHERE "id" = 1618990241[0m
+  [4;35;1mBounty Update (0.1ms)[0m   [0mUPDATE "bounties" SET "last_pledge_at" = '2009-08-08 14:34:52', "updated_at" = '2009-08-08 14:34:52' WHERE "id" = 1[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.2ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.1ms)[0m   [0mUPDATE "projects" SET "status" = 'funded', "last_pledge_at" = '2009-08-08 14:34:52', "updated_at" = '2009-08-08 14:34:52' WHERE "id" = 2053932785[0m
+  [4;36;1mProject Update (0.1ms)[0m   [0;1mUPDATE "projects" SET "status" = 'funded', "updated_at" = '2009-08-08 14:34:52' WHERE "id" = 2053932785[0m
+  [4;35;1mProject Load (0.3ms)[0m   [0mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;36;1mProjectCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "project_categories" WHERE ("project_categories".project_id = 2053932785) [0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'a' or slug = 'a') LIMIT 1[0m
+  [4;36;1mCategory Create (0.2ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('a', 'a', '2009-08-08 14:34:52', 'f', '2009-08-08 14:34:52')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 0, 1, 'a')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'b' or slug = 'b') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('b', 'b', '2009-08-08 14:34:52', 'f', '2009-08-08 14:34:52')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 1, 2, 'b')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'c' or slug = 'c') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('c', 'c', '2009-08-08 14:34:52', 'f', '2009-08-08 14:34:52')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 2, 3, 'c')[0m
+  [4;36;1mCategory Load (0.1ms)[0m   [0;1mSELECT * FROM "categories" WHERE (name = 'd' or slug = 'd') LIMIT 1[0m
+  [4;35;1mCategory Create (0.1ms)[0m   [0mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('d', 'd', '2009-08-08 14:34:52', 'f', '2009-08-08 14:34:52')[0m
+  [4;36;1mProjectCategory Create (0.1ms)[0m   [0;1mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 3, 4, 'd')[0m
+  [4;35;1mCategory Load (0.1ms)[0m   [0mSELECT * FROM "categories" WHERE (name = 'e' or slug = 'e') LIMIT 1[0m
+  [4;36;1mCategory Create (0.1ms)[0m   [0;1mINSERT INTO "categories" ("name", "slug", "updated_at", "official", "created_at") VALUES('e', 'e', '2009-08-08 14:34:52', 'f', '2009-08-08 14:34:52')[0m
+  [4;35;1mProjectCategory Create (0.1ms)[0m   [0mINSERT INTO "project_categories" ("project_id", "rank", "category_id", "display_name") VALUES(2053932785, 5, 5, 'e')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mBounty Load (0.1ms)[0m   [0;1mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;35;1mBounty Create (0.2ms)[0m   [0mINSERT INTO "bounties" ("expires_at", "project_id", "updated_at", "last_pledge_at", "amount", "raised", "created_at") VALUES('2009-08-15 14:34:52', 2053932785, '2009-08-08 14:34:52', NULL, 1000.0, 0.0, '2009-08-08 14:34:52')[0m
+  [4;36;1mProject Load (0.2ms)[0m   [0;1mSELECT * FROM "projects" WHERE ("projects"."id" = 2053932785) [0m
+  [4;35;1mBounty Load (0.1ms)[0m   [0mSELECT * FROM "bounties" WHERE ("bounties".project_id = 2053932785) LIMIT 1[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m
+  [4;35;1mProject Update (0.3ms)[0m   [0mUPDATE "projects" SET "last_pledge_at" = '2009-08-08 14:34:52', "updated_at" = '2009-08-08 14:34:52' WHERE "id" = 2053932785[0m
+  [4;36;1mPledge Load (0.1ms)[0m   [0;1mSELECT * FROM "pledges" WHERE ("pledges".bounty_id = 1) [0m

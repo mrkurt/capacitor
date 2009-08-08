@@ -14,11 +14,15 @@
       %input{:type => 'submit', :value => '2500', :name => 'credit[amount]'}
       %input{:type => 'submit', :value => '5000', :name => 'credit[amount]'}
 
-    #drafts  
-      %h3 Your Projects
-      %ul
+    %table#user-projects
+      %thead
+        %tr
+          %th{:colspan => 2} Your Projects
+      %tbody
         -@current_user.projects.each do |p|
-          %li= link_to h(p.name), p
+          %tr
+            %td= link_to h(p.name), p
+            %td= p.status
   -else
     -form_tag :controller => 'users', :action => 'login' do
       %p
